@@ -7,3 +7,6 @@ Too many resources to parse / read
 ```
 [available servers] -> client[server] -> post -> {admin} -> event[ec=client]
 ```
+
+### View Posts
+- Telegram [Channel](https://t.me/AnyRealTimeEvents) via [Bot](https://t.me/AnyRealTimeEventsBot)
