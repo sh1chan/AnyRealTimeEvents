@@ -9,6 +9,9 @@ Too many resources to parse / read
 ```
 
 ### Resp
+- [ ] EventInterface
+  - [ ] backend
+  - [ ] frontend
 - [ ] EventOwner
 - [ ] EventCreator
 - [ ] EventPublisher
