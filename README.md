@@ -9,6 +9,7 @@ Too many resources to parse / read
 ```
 
 ### Resp
+- [ ] EventDB
 - [ ] EventInterface
   - [ ] backend
   - [ ] frontend
@@ -23,3 +24,8 @@ Too many resources to parse / read
 
 ### View Posts
 - Telegram [Channel](https://t.me/AnyRealTimeEvents) via [Bot](https://t.me/AnyRealTimeEventsBot)
+
+
+### TODO
+- [ ] Rename "telegram" (`EventPublisher->bots->telegram`) as `epbotstg`
+- [ ] EventDB - databases and its tables
