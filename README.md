@@ -12,6 +12,8 @@ Too many resources to parse / read
 - [ ] EventInterface
   - [ ] backend
   - [ ] frontend
+  - [ ] bots
+    - [ ] Telegram as `eibotstg`
 - [ ] EventOwner
 - [ ] EventCreator
 - [ ] EventPublisher
